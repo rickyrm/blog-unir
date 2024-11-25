@@ -1,4 +1,4 @@
-body {
+body { /*Cuerpo del html*/
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -83,29 +83,29 @@ header a:hover {
 
 /* Imágenes */
 .post .imagen1 {
-    width: 70%; /* Las imágenes ocuparán el 70% del ancho del contenedor */
-    max-width: 300px; /* Tamaño máximo de 400 píxeles */
+    width: 70%; 
+    max-width: 300px; 
     border-radius: 8px;
-    margin: 10px auto; /* Centra la imagen horizontalmente */
-    display: block; /* Necesario para centrar con margin:auto */
+    margin: 10px auto; 
+    display: block; 
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .post .imagen2 {
-    width: 70%; /* Las imágenes ocuparán el 70% del ancho del contenedor */
-    max-width: 200px; /* Tamaño máximo de 400 píxeles */
+    width: 70%; 
+    max-width: 200px; 
     border-radius: 8px;
-    margin: 10px auto; /* Centra la imagen horizontalmente */
-    display: block; /* Necesario para centrar con margin:auto */
+    margin: 10px auto; 
+    display: block; 
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .post .imagen3 {
-    width: 70%; /* Las imágenes ocuparán el 70% del ancho del contenedor */
-    max-width: 300px; /* Tamaño máximo de 400 píxeles */
+    width: 70%; 
+    max-width: 300px; 
     border-radius: 8px;
-    margin: 10px auto; /* Centra la imagen horizontalmente */
-    display: block; /* Necesario para centrar con margin:auto */
+    margin: 10px auto; 
+    display: block; 
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
